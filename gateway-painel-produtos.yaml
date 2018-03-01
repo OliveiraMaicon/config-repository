@@ -6,4 +6,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 message:
-  fallback: "Fudeuuuu"
+  fallback: "Estamos com problemas no momento."
